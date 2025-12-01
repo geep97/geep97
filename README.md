@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @geep97
-- 👀 I’m interested in app development and software engineering ...
-- 🌱 I’m currently learning reactnative ...
-- 💞️ I’m looking to collaborate on a project...
-- 📫 How to reach me gmail: owusugodman@gmail.com ...
+👋 Hi, I’m @geep97
 
-<!---
-geep97/geep97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Interests: Mobile app development, data analytics, machine learning, and software engineering
+
+📊 Current focus: Data Analytics & Data Science (Python • SQL • Machine Learning)
+
+📱 Also learning: React Native & modern mobile app development
+
+🤝 Open to collaborate on:
+
+Data analytics projects
+
+Machine learning models
+
+Mobile app development
+
+Any impactful real-world tech solutions
+
+📫 Reach me:
+Email: owusugodman@gmail.com
