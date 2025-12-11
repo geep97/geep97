@@ -2,7 +2,7 @@
 
 👨‍💻 Interests: Mobile app development, data analytics, machine learning, and software engineering
 
-📊 Current focus: Data Analytics & Data Science (Python • SQL • Machine Learning)
+📊 Current focus: Data Analytics & Data Science (Python • SQL • Machine Learning & C#)
 
 📱 Also learning: React Native & modern mobile app development
 
