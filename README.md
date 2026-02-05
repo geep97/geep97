@@ -1,20 +1,16 @@
-👋 Hi, I’m @geep97
+👋 Hi, I'm Godman
 
-👨‍💻 Interests: Mobile app development, data analytics, machine learning, and software engineering
+Data Analyst specializing in:
+- SQL (data modeling, analytics, optimization)
+- Power BI (dashboards, DAX, storytelling)
+- Python (data analysis & machine learning)
 
-📊 Current focus: Data Analytics & Data Science (Python • SQL • Machine Learning & C#)
+🔍 I turn raw data into insights that drive decisions.
 
-📱 Also learning: React Native & modern mobile app development
+🛠 Tech Stack:
+SQL | Power BI | Python | Pandas | NumPy | Scikit-learn | Excel
 
-🤝 Open to collaborate on:
 
-Data analytics projects
-
-Machine learning models
-
-Mobile app development
-
-Any impactful real-world tech solutions
 
 📫 Reach me:
 Email: owusugodman@gmail.com
