@@ -1,6 +1,7 @@
 👋 Hi, I'm Godman
 
-Data Analyst specializing in:
+Data Engineer specializing in:
+- C#/ASP.NET
 - SQL (data modeling, analytics, optimization)
 - Power BI (dashboards, DAX, storytelling)
 - Python (data analysis & machine learning)
