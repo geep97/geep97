@@ -8,7 +8,7 @@ Data Analyst specializing in:
 🔍 I turn raw data into insights that drive decisions.
 
 🛠 Tech Stack:
-SQL | Power BI | Python | Pandas | NumPy | Scikit-learn | Excel
+C# |ASP.NET | SQL | Power BI | Python | Pandas | NumPy | Scikit-learn | Excel
 
 
 
