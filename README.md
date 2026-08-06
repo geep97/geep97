@@ -1,18 +1,10 @@
 👋 Hi, I'm Godman
 
-Data Engineer & Full-Stack Developer specializing in:
+Data Engineer & Full-Stack Developer
 
-• C#/ASP.NET
-• SQL (data modeling, analytics & optimization)
-• Power BI (dashboards, DAX & data storytelling)
-• Python (data analysis, ETL & machine learning)
-• React (web applications)
-• React Native & Expo (cross-platform mobile apps)
+I build data pipelines, analytics dashboards, and modern web and mobile applications that help organizations make better decisions.
 
-🔍 I turn raw data into actionable insights and build web and mobile applications that solve real-world problems.
+🛠 Tech Stack
+Python • SQL • Power BI • C# • ASP.NET • React • React Native • Expo • Pandas • NumPy • Scikit-learn • Excel
 
-🛠 Tech Stack:
-C# | ASP.NET | SQL | Power BI | Python | Pandas | NumPy | Scikit-learn | React | React Native | Expo | JavaScript | Excel
-
-📫 Reach me:
-Email: owusuobengdenteh@gmail.com
+📫 Email: owusugodman@gmail.com
