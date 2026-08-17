@@ -25,8 +25,6 @@ I build data pipelines, analytics dashboards, and modern web and mobile applicat
 ---
 
 
----
-
 ### 📌 Featured Projects
 
 - 🔹 **[retailpulseportal-backend](https://github.com/geep97/retailpulseportal-backend)** — Python
