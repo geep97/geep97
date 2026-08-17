@@ -5,9 +5,7 @@
 I build data pipelines, analytics dashboards, and modern web and mobile applications that help organizations make better decisions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geep97&label=Profile%20Views&color=0e75b6&style=flat" alt="geep97" />
-</p>
+
 
 ---
 
@@ -26,16 +24,6 @@ I build data pipelines, analytics dashboards, and modern web and mobile applicat
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geep97&show_icons=true&theme=dark&hide_border=true" alt="Godman's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geep97&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=geep97&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
