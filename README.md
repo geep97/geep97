@@ -22,7 +22,7 @@ I build backend systems and APIs — from data pipelines to distributed services
 
 ### 📌 Featured Projects
 
-- 🔹 **[HR-LEAVE-MANAGEMENT-SYSTEM](https://github.com/geep97/HR-LEAVE-MANAGEMENT-SYSTEM)** — C# / ASP.NET Core
+- 🔹 **[KNUST HALL MAINTENANCE SYSTEM](https://github.com/geep97/KNUST-HALL-MAINTENANCE)** — C# / ASP.NET Core
 - 🔹 **[factify-enterprise-api](https://github.com/geep97/factify-enterprise-api)** — Python
 - 🔹 **[retailpulseportal-backend](https://github.com/geep97/retailpulseportal-backend)** — Python
 - 🔹 **[retailpulseportal-frontend](https://github.com/geep97/retailpulseportal-frontend)** — TypeScript
