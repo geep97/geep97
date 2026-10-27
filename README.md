@@ -32,4 +32,4 @@ I build backend systems and APIs with a focus on clean architecture and scalabil
 
 ### 📫 Reach Me
 
-[![Gmail](https://img.shields.io/badge/-owusugodman%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owusugodman@gmail.com)
+[![Gmail](https://img.shields.io/badge/-owusugodman%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owusuobengdenteh@gmail.com)
